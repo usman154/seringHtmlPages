@@ -1,4 +1,4 @@
-# servingHtmlPages
+# Serve HTML Pages in Node JS
 This app will run on Node JS
 Download `NodeJS` from https://nodejs.org/en/download/
 
